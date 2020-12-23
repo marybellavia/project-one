@@ -2,8 +2,15 @@
 ##### Mary Bellavia, David Fournie, Janelle Goddard, and Eric Evans
 ##### 12/23/2020
 
-### Question One: What are the demographics for food deserts in Missouri by county?
+### Question One: What are the demographics for food deserts in Missouri?
+The racial demographics analysis of the data on the overall population, the low access population, and the low access low income population for Missouri yielded some concrete numbers. The bar graph and total population percentages pie chart show the white population in the largest population in Missouri. 
 
+![Population Demographics Bar Chart](output_data/PopulationDemographics.png)
+![Population Demographics Pie Chart](output_data/PopulationPercentageDemographics.png)
+
+The last bar chart shows the percentages for the populations who live in low access areas by race and who live in low access low income tracts by race. This bar chart shows that a greater percentage of the white population is affected by low access to grocery stores. In addition, those in the black, hispanic, or other population, if they live in a low access area are far more likely to also be affected by low income. This bar chart demonstrates that the black, hispanic, and other populations in the the state of Missouri are more likely to live in a low income area and be affected by food deserts than the white population living in a low access location. 
+
+![Low Access Population Demographics Bar Chart](output_data/PopulationPercentagesDemographics.png)
 
 ### Question Two: What is the relationship between the poverty rate for a given county in Missouri and low access populations?
 
