@@ -33,6 +33,3 @@ How is the poverty rate determined? :
 ### Sources
 * https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
 * https://www.census.gov/topics/income-poverty/poverty/guidance/poverty-measures.html 
-
-
-Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
