@@ -8,7 +8,7 @@ The racial demographics analysis of the data on the overall population, the low 
 ![Population Demographics Bar Chart](output_data/PopulationDemographics.png)
 ![Population Demographics Pie Chart](output_data/PopulationPercentageDemographics.png)
 
-The last bar chart shows the percentages for the populations who live in low access areas by race and who live in low access low income tracts by race. This bar chart shows that a greater percentage of the white population is affected by low access to grocery stores. In addition, those in the black, hispanic, or other population, if they live in a low access area are far more likely to also be affected by low income. This bar chart demonstrates that the black, hispanic, and other populations in the the state of Missouri are more likely to live in a low income area and be affected by food deserts than the white population living in a low access location. 
+The last bar chart shows the percentages for the populations who live in low access areas by race and who live in low access low income tracts by race. This bar chart shows that a greater percentage of the white population is affected by low access to grocery stores. In addition, those in the black, hispanic, or other population, if they live in a low access area are far more likely to also be affected by low income. This bar graph shows that food deserts disproportionately affects black, hispanic, and multiracial or other populations in Missouri.
 
 ![Low Access Population Demographics Bar Chart](output_data/PopulationPercentagesDemographics.png)
 
